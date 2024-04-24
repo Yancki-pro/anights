@@ -1,0 +1,25 @@
+{
+    "name": "Brian Richardson",
+    "age": 74,
+    "address": {
+        "street": "Logan Ways",
+        "city": "Davisbury",
+        "state": "Maryland",
+        "zip": "74699"
+    },
+    "contact": {
+        "phone": "843.796.0695",
+        "servicePhone": "800189572"
+    },
+    "birthday": "1951-17-08",
+    "ip": "130.178.135.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Our special true. Floor water former nice section also.",
+        "bio": "Who agent it involve probably.\nToday turn notice through product. Market support building reason. Early different serve explain support."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
