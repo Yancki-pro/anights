@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Ellis",
+    "age": 104,
+    "address": {
+        "street": "Rogers Cliff",
+        "city": "East Alicia",
+        "state": "Maine",
+        "zip": "50903"
+    },
+    "contact": {
+        "phone": "880.462.3349",
+        "servicePhone": "800086687"
+    },
+    "birthday": "1921-21-01",
+    "ip": "117.253.30.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Likely wrong measure standard. Forget night yeah state free black technology. Card beautiful ahead choice produce provide meeting. Lead color partner part situation notice best car.",
+        "bio": "Lose style clearly decade above present politics kid. Various who mention defense grow customer body. Member area ago expert already effect by."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
