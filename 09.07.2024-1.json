@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Kim",
+    "age": 2,
+    "address": {
+        "street": "Jonathan Isle",
+        "city": "New Emily",
+        "state": "Kentucky",
+        "zip": "88654"
+    },
+    "contact": {
+        "phone": "(423)415-2816",
+        "servicePhone": "800690617"
+    },
+    "birthday": "2023-28-01",
+    "ip": "109.182.75.35",
+    "foo": "bar",
+    "profile": {
+        "about": "In can high do remain. Road whole sound same back. Because beyond though high read.\nAppear experience education yeah southern run put agreement. Others lot able everyone game media development.",
+        "bio": "The item individual myself. Glass son different. Game describe dinner. Debate site bar.\nAll up husband new today.\nMonth wide role sign factor final. Because force enjoy thus week."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
