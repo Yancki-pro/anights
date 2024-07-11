@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Simpson",
+    "age": 8,
+    "address": {
+        "street": "Gregory Overpass",
+        "city": "South Brandonside",
+        "state": "Washington",
+        "zip": "07977"
+    },
+    "contact": {
+        "phone": "(367)988-8132",
+        "servicePhone": "800591552"
+    },
+    "birthday": "2017-15-07",
+    "ip": "84.48.63.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Old parent light until cover. Particularly standard picture material everything.",
+        "bio": "Black majority approach through run admit task. Claim situation lose hundred test. Make value safe woman."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
