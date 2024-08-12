@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Cardenas",
+    "age": 81,
+    "address": {
+        "street": "Christopher Plain",
+        "city": "South Lisa",
+        "state": "Kansas",
+        "zip": "43578"
+    },
+    "contact": {
+        "phone": "994-784-2764x9517",
+        "servicePhone": "800628042"
+    },
+    "birthday": "1944-09-08",
+    "ip": "199.157.177.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Company final foreign behavior million only money. Manage apply production especially open available. Price soldier face sort check push.",
+        "bio": "Hold full else may conference road.\nBuilding southern experience economic reach yet. Wall election tell plan personal. Course draw human financial choice move."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
