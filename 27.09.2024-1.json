@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Perez",
+    "age": 98,
+    "address": {
+        "street": "Katrina Gateway",
+        "city": "Andrewbury",
+        "state": "Kansas",
+        "zip": "18727"
+    },
+    "contact": {
+        "phone": "2749301987",
+        "servicePhone": "800460887"
+    },
+    "birthday": "1927-05-11",
+    "ip": "31.18.123.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Ok region suddenly past information close subject. Past major enough on.\nFull cut truth who money. Especially writer offer state drive shake various.",
+        "bio": "Full this why who company. Position avoid miss because.\nLife owner red experience into southern. Body find admit two pretty. Across production simple debate law story education."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
