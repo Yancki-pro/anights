@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Jones",
+    "age": 48,
+    "address": {
+        "street": "Andrews Mountains",
+        "city": "East David",
+        "state": "New Jersey",
+        "zip": "30789"
+    },
+    "contact": {
+        "phone": "+1-889-651-9812x2077",
+        "servicePhone": "800946547"
+    },
+    "birthday": "1977-15-11",
+    "ip": "144.250.135.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Word article understand actually respond culture.\nFollow station energy light say. Weight bring individual experience skill despite will.",
+        "bio": "Easy approach institution stage present challenge. Call oil from president decade property minute.\nIf continue final suffer. Debate establish force section hour tonight. Should available worker cold."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
