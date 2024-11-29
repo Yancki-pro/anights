@@ -1,0 +1,25 @@
+{
+    "name": "Steven Padilla",
+    "age": 106,
+    "address": {
+        "street": "Michelle Mill",
+        "city": "South Robertchester",
+        "state": "Texas",
+        "zip": "05449"
+    },
+    "contact": {
+        "phone": "+1-396-239-4733x7884",
+        "servicePhone": "800580451"
+    },
+    "birthday": "1919-05-08",
+    "ip": "175.182.113.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Able those term education study environment him time. Listen night often pay. Marriage drug themselves response mention poor rest.",
+        "bio": "Western less outside both every art. Either arrive low wonder dark treat.\nThink always reveal own. However police opportunity see."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
