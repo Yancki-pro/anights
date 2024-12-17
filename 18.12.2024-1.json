@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Bender",
+    "age": 34,
+    "address": {
+        "street": "Alexandra Neck",
+        "city": "Port Johnny",
+        "state": "Michigan",
+        "zip": "09115"
+    },
+    "contact": {
+        "phone": "370-566-6213x421",
+        "servicePhone": "800500684"
+    },
+    "birthday": "1991-01-12",
+    "ip": "121.221.229.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact letter simply campaign. Pay last hand material attack right.\nSure set pressure quite. Food what sure will happen visit not civil. Form democratic line bag.",
+        "bio": "Person book main behind where. Carry tonight important fund. Girl how where inside care."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
