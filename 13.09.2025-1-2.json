@@ -1,0 +1,25 @@
+{
+    "name": "Barry Davis Jr.",
+    "age": 42,
+    "address": {
+        "street": "Tiffany Crescent",
+        "city": "Kristenshire",
+        "state": "Oklahoma",
+        "zip": "24659"
+    },
+    "contact": {
+        "phone": "001-252-330-1553x697",
+        "servicePhone": "800378479"
+    },
+    "birthday": "1983-25-08",
+    "ip": "89.52.22.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Action baby what. Agency deal eight. Strategy pretty myself season sort strategy.\nAssume study candidate concern design some land least. Side increase total word wide nation.",
+        "bio": "Most rather more trial office under would situation. Where down foot. Above avoid record strong cold middle vote foreign."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
