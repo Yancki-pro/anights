@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Lawrence",
+    "age": 101,
+    "address": {
+        "street": "Jeremy Ranch",
+        "city": "West Kellichester",
+        "state": "Kentucky",
+        "zip": "60477"
+    },
+    "contact": {
+        "phone": "405.371.6364",
+        "servicePhone": "800056099"
+    },
+    "birthday": "1924-18-08",
+    "ip": "106.30.246.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Across early close war federal experience art. Bank father discussion soldier certain participant against leader. Partner which discover however television participant.",
+        "bio": "Professional must factor drive. By can language return type thought add beat. Month long above recently natural born instead board.\nPay war ball. Hospital shake yes me inside short."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Finley",
+    "age": 44,
+    "address": {
+        "street": "Moore Path",
+        "city": "South Shannonport",
+        "state": "Indiana",
+        "zip": "55880"
+    },
+    "contact": {
+        "phone": "001-634-520-5278x89420",
+        "servicePhone": "800745344"
+    },
+    "birthday": "1981-22-01",
+    "ip": "189.173.127.236",
+    "foo": "bar",
+    "profile": {
+        "about": "A product air agree case blood those. Whether night possible education receive special prove.",
+        "bio": "Age anything like improve suffer. They stock down at.\nInto heart film key court. Amount rate car church power. Answer town economy less arrive likely."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Charles Fuller",
+    "age": 61,
+    "address": {
+        "street": "Ana Village",
+        "city": "Lake Catherine",
+        "state": "Idaho",
+        "zip": "62484"
+    },
+    "contact": {
+        "phone": "511-562-4922",
+        "servicePhone": "800162210"
+    },
+    "birthday": "1964-25-04",
+    "ip": "38.177.45.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Present herself gas run month decade. Help interview leg type.\nEnough interest message enough this mention any. Another method next. Mr interview enter ok authority.\nResearch improve nice name house.",
+        "bio": "Paper focus check address family situation third.\nNotice buy site contain middle remember involve. Avoid never old even among. Light to big mother actually send."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
