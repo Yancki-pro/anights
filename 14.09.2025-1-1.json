@@ -1,0 +1,25 @@
+{
+    "name": "John Marsh",
+    "age": 5,
+    "address": {
+        "street": "Ronald Groves",
+        "city": "South Ashleymouth",
+        "state": "Wisconsin",
+        "zip": "06154"
+    },
+    "contact": {
+        "phone": "311-692-6785",
+        "servicePhone": "800067116"
+    },
+    "birthday": "2020-20-07",
+    "ip": "80.88.108.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement might support management finish former serve we. Or benefit send. Cut look two fight property none trade sure.",
+        "bio": "Seek state rest song same. Different thus this learn.\nSimple time body past care reduce laugh everyone.\nLikely speech where finish. Product outside billion president need fly."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
