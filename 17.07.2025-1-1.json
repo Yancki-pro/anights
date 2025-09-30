@@ -1,0 +1,25 @@
+{
+    "name": "Brian Watkins",
+    "age": 96,
+    "address": {
+        "street": "Denise Unions",
+        "city": "Port Summerside",
+        "state": "Mississippi",
+        "zip": "81111"
+    },
+    "contact": {
+        "phone": "001-310-878-1116x2237",
+        "servicePhone": "800533985"
+    },
+    "birthday": "1929-13-06",
+    "ip": "78.104.65.237",
+    "foo": "bar",
+    "profile": {
+        "about": "A woman field interview see finally dark. Civil memory carry do. Whose same direction allow material.\nFire walk at performance economy mission.",
+        "bio": "Open movie wish prove. From scene series class respond nation. Something law person base situation face edge.\nWestern economy gas fear rule shake evidence. Join realize from entire."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
