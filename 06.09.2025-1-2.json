@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Rivas",
+    "age": 42,
+    "address": {
+        "street": "Holt Green",
+        "city": "Joshuastad",
+        "state": "Nebraska",
+        "zip": "46451"
+    },
+    "contact": {
+        "phone": "803.343.2795x7418",
+        "servicePhone": "800346623"
+    },
+    "birthday": "1983-14-05",
+    "ip": "191.113.147.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother crime eat security. Anything build floor around matter. Body support marriage list medical another never.",
+        "bio": "Security family important run old. Tree try our those.\nPm white force natural student ever gas. Artist as discuss figure trade.\nRich author end property expert. Make so unit professional."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

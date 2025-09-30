@@ -1,0 +1,25 @@
+{
+    "name": "Charles Barker",
+    "age": 110,
+    "address": {
+        "street": "Peck Views",
+        "city": "West Jessica",
+        "state": "Idaho",
+        "zip": "20951"
+    },
+    "contact": {
+        "phone": "755-680-9934",
+        "servicePhone": "800139893"
+    },
+    "birthday": "1915-07-11",
+    "ip": "97.252.31.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Service offer resource office hold them.\nColor record alone local give effect. Whom mention prepare seem wide player answer short. Clearly within organization total reach say year.",
+        "bio": "Cost difficult seem ask myself. Other wall five including. Thing describe coach.\nSource identify gas. Treatment road religious low conference push.\nEvery fish unit collection seat tree whatever."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
