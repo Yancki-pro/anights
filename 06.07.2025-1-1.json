@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Summers",
+    "age": 14,
+    "address": {
+        "street": "Thompson Land",
+        "city": "Michellefort",
+        "state": "Virginia",
+        "zip": "32884"
+    },
+    "contact": {
+        "phone": "337-576-4400",
+        "servicePhone": "800611499"
+    },
+    "birthday": "2011-05-02",
+    "ip": "39.62.240.214",
+    "foo": "bar",
+    "profile": {
+        "about": "New even site head. Marriage find garden yourself budget. Degree black cultural pretty network around.",
+        "bio": "Party task could yard four reality letter. Already control data our sister girl. Book network television and deep behavior century. Same at glass buy policy."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

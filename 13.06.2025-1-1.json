@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Steele",
+    "age": 91,
+    "address": {
+        "street": "Harris Mission",
+        "city": "Caitlinchester",
+        "state": "Minnesota",
+        "zip": "49344"
+    },
+    "contact": {
+        "phone": "+1-583-960-1696",
+        "servicePhone": "800693101"
+    },
+    "birthday": "1934-04-05",
+    "ip": "93.9.84.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Take answer cold friend model machine.\nBenefit impact main space moment. Degree course public service much. Whatever use employee range.",
+        "bio": "Where move wife book. Name military school fire garden. Performance media culture should management knowledge nature."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Lowe",
+    "age": 38,
+    "address": {
+        "street": "Joseph Ville",
+        "city": "South Steventon",
+        "state": "Hawaii",
+        "zip": "89275"
+    },
+    "contact": {
+        "phone": "637.586.3254x68543",
+        "servicePhone": "800767220"
+    },
+    "birthday": "1987-10-04",
+    "ip": "13.61.151.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat none year finally military phone. Exactly daughter itself light.\nMachine lead structure story analysis. Meet support make guess certainly lead know player.",
+        "bio": "But owner into. Himself town begin tend defense table public. Share care question term model draw serious.\nFeel my manage language tend health. Your table four cost lay him."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
