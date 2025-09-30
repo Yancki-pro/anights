@@ -1,0 +1,25 @@
+{
+    "name": "Keith Simpson",
+    "age": 113,
+    "address": {
+        "street": "Zachary Villages",
+        "city": "Port Lisa",
+        "state": "Utah",
+        "zip": "74249"
+    },
+    "contact": {
+        "phone": "(821)514-4735",
+        "servicePhone": "800249644"
+    },
+    "birthday": "1912-21-02",
+    "ip": "200.152.171.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Until information article candidate whom. Campaign hold population around. Physical field daughter not world. Else raise leader usually yard affect.",
+        "bio": "Executive girl officer maybe. Benefit player mean score indeed social. Personal market while fast mother yet."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
