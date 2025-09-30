@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Mckinney",
+    "age": 106,
+    "address": {
+        "street": "Solomon Divide",
+        "city": "North Kellychester",
+        "state": "Idaho",
+        "zip": "71755"
+    },
+    "contact": {
+        "phone": "283.790.2571",
+        "servicePhone": "800335900"
+    },
+    "birthday": "1919-07-01",
+    "ip": "188.16.42.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm girl purpose relationship share ability. Yourself check everything sort old consumer myself.\nSort southern contain foot field. Nearly identify within worker computer discussion.",
+        "bio": "Wind ok two up office main movement book. Avoid age receive watch performance deal table their."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

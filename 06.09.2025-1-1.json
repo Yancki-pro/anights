@@ -1,0 +1,25 @@
+{
+    "name": "Michael Garcia",
+    "age": 20,
+    "address": {
+        "street": "Moore Square",
+        "city": "Robinsonbury",
+        "state": "Louisiana",
+        "zip": "56764"
+    },
+    "contact": {
+        "phone": "(745)482-7556x1984",
+        "servicePhone": "800755200"
+    },
+    "birthday": "2005-24-11",
+    "ip": "95.76.78.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture laugh need great seven television. Especially only arrive place often beat economic. Me Republican boy century. American hope election charge close same rich though.",
+        "bio": "Trial tonight camera. Southern theory son purpose yourself sort need.\nCrime five medical customer third. Live need create full million throughout short under."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
