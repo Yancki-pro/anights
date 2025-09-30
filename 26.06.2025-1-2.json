@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Tyrone Mack",
+    "age": 19,
+    "address": {
+        "street": "Brian Village",
+        "city": "West Hannah",
+        "state": "Pennsylvania",
+        "zip": "42143"
+    },
+    "contact": {
+        "phone": "871.289.5537x1800",
+        "servicePhone": "800876088"
+    },
+    "birthday": "2006-29-05",
+    "ip": "193.59.174.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Task around bill that article. Charge them parent apply likely score.\nWalk night say minute east. Class cell service he.\nSuch pass produce how we. Reach nation bill answer spend.",
+        "bio": "Sometimes who debate town. Head position skin both clearly during.\nMeasure whom debate next turn. Shake radio feel say where play.\nCause picture adult meeting near practice. Yes respond nor thought."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

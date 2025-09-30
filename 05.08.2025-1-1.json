@@ -1,0 +1,25 @@
+{
+    "name": "Harold Reyes",
+    "age": 93,
+    "address": {
+        "street": "Shannon Tunnel",
+        "city": "Port Claudiachester",
+        "state": "Missouri",
+        "zip": "74436"
+    },
+    "contact": {
+        "phone": "+1-998-375-5262",
+        "servicePhone": "800860288"
+    },
+    "birthday": "1932-07-09",
+    "ip": "106.131.20.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting any throughout class loss school. Myself statement media north nearly better economic.\nThis between may network example. Least push check special nature guess deep.",
+        "bio": "Business green newspaper once off fish.\nDown build run idea. Market whether eight window food cultural.\nThere fast benefit point sound what position. Trade thought know affect."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

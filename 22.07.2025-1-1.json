@@ -1,0 +1,25 @@
+{
+    "name": "James Rodriguez",
+    "age": 95,
+    "address": {
+        "street": "Patrick Villages",
+        "city": "Lake James",
+        "state": "West Virginia",
+        "zip": "87488"
+    },
+    "contact": {
+        "phone": "750.466.1948x1273",
+        "servicePhone": "800398212"
+    },
+    "birthday": "1930-18-12",
+    "ip": "124.91.41.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend draw carry work catch. Staff ready analysis draw under. Society summer sport few maintain early. Front six the notice.\nMaintain left agent past. Face might president police.",
+        "bio": "Side foot only now. Actually exist single officer.\nLight claim term so. Power fact offer parent. Relate live give."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}

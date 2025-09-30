@@ -1,0 +1,25 @@
+{
+    "name": "Robert Farley",
+    "age": 78,
+    "address": {
+        "street": "Golden Common",
+        "city": "West Christopher",
+        "state": "Kansas",
+        "zip": "36907"
+    },
+    "contact": {
+        "phone": "765-854-9738",
+        "servicePhone": "800411704"
+    },
+    "birthday": "1947-28-07",
+    "ip": "123.241.125.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend serve then number. Fast memory health really fly body receive article. His fast most rich.",
+        "bio": "Ability might cultural follow. Rise time occur gas agent simple detail.\nNature camera foreign both military similar himself. Late nation member service place agree."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

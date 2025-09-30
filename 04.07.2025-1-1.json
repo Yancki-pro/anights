@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Mitchell",
+    "age": 27,
+    "address": {
+        "street": "Munoz Meadows",
+        "city": "Brittanyborough",
+        "state": "Virginia",
+        "zip": "11434"
+    },
+    "contact": {
+        "phone": "9659098501",
+        "servicePhone": "800859127"
+    },
+    "birthday": "1998-07-02",
+    "ip": "184.40.232.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory eye eight product himself federal discuss. Suddenly question already full. Option movie blood us baby run with world. Sister cover success piece professor hot there.",
+        "bio": "On fall very performance third. According but let as pull long. Once car believe player."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
