@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Wood",
+    "age": 75,
+    "address": {
+        "street": "Marcus Valleys",
+        "city": "New Johnland",
+        "state": "Louisiana",
+        "zip": "10229"
+    },
+    "contact": {
+        "phone": "001-223-695-4337x632",
+        "servicePhone": "800488992"
+    },
+    "birthday": "1950-07-10",
+    "ip": "130.209.49.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard lose person leave protect series represent. Role our effect your society.\nBring letter throughout mention say. Into pattern would manage. Consider official become memory draw them number girl.",
+        "bio": "State act per guy enough measure. Former beyond anything explain increase foot throughout.\nWork know need role increase. Determine build least hit rather skin."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
